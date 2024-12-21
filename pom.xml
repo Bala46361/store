@@ -107,11 +107,10 @@
 				</executions>
 				<configuration>
 					<excludes>
-						<exclude>com/bnp/onlinebookstore/entity/**</exclude>
-						<exclude>com/bnp/onlinebookstore/dto/**</exclude>
-						<exclude>com/bnp/onlinebookstore/model/**</exclude>
-						<exclude>com/bnp/onlinebookstore/repository/**</exclude>
-						<exclude>com/bnp/onlinebookstore/config/**</exclude>
+						<exclude>com/bnp/kata/onlinebookstore/entity/**</exclude>
+						<exclude>com/bnp/kata/onlinebookstore/dto/**</exclude>
+						<exclude>com/bnp/kata/onlinebookstore/model/**</exclude>
+						<exclude>com/bnp/kata/onlinebookstore/repository/**</exclude>
 					</excludes>
 				</configuration>
 			</plugin>
